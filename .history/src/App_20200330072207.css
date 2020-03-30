@@ -37,10 +37,11 @@
   }
 }
 
-div, h2, h3, p {
-  font-family: 'Gotham-Book';
-}
 
+body {
+  text-align: center;
+  padding: 10px;
+}
 
 /* Gallery Styles */
 .book {
@@ -72,9 +73,4 @@ div, h2, h3, p {
   position: absolute;
   bottom: 0;
   padding: 10px;
-}
-
-@font-face {
-  font-family: 'Gotham-Book';
-  src: local('Gotham-Book'), url(./font/Gotham-Book.otf) format('opentype');
 }

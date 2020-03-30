@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import './App.css';
+// import { FormGroup, FormControl, InputGroup } from 'react-bootstrap';
+// // import Glyphicon from 'react-bootstrap'
 import Gallery from './Gallery';
 
 class App extends Component {
@@ -27,7 +28,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h2 className="title">Book Search</h2>
+        <h2 className="title">Book Explorer</h2>
 
         <input
           type="text"

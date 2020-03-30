@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+// import { FormGroup, FormControl, InputGroup } from 'react-bootstrap';
+// // import Glyphicon from 'react-bootstrap'
 import './App.css';
 import Gallery from './Gallery';
 

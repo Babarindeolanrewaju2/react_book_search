@@ -37,11 +37,6 @@
   }
 }
 
-div, h2, h3, p {
-  font-family: 'Gotham-Book';
-}
-
-
 /* Gallery Styles */
 .book {
   display: inline-block;
@@ -75,6 +70,6 @@ div, h2, h3, p {
 }
 
 @font-face {
-  font-family: 'Gotham-Book';
-  src: local('Gotham-Book'), url(./font/Gotham-Book.otf) format('opentype');
+  font-family: 'Proxima';
+  src: local('Proxima'), url(./fonts/Proxima.otf) format('opentype');
 }
